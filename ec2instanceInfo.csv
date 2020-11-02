@@ -1,0 +1,3 @@
+InstanceType,VpcId,SubnetId,AvailabilityZone,AccountNumber,TagTeamName
+t2.micro,vpc-0xxxx,subnet-084ea6b35e0bdb139,us-east-1e,Acc-8xxxxxxxxxxx,Compliance
+t2.micro,vpc-0xxxx,subnet-02f40cbfdc0ee7830,us-east-1c,Acc-8xxxxxxxxxxx,FixIncome
